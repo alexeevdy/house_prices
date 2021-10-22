@@ -1,2 +1,2 @@
 # house_prices
-Problem solved in october 2020 during Technosphere Machine Learning course.
+Problem solved in October 2020 during @Mail.ru Technosphere Machine Learning course.
